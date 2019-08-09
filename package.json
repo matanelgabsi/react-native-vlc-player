@@ -5,6 +5,7 @@
   "_integrity": "",
   "_location": "/react-native-vlc-player",
   "_phantomChildren": {},
+  "nativePackage": true,
   "_requested": {
     "type": "git",
     "raw": "git+https://github.com/1van-rus/react-native-vlc-player.git",
@@ -38,7 +39,8 @@
   "keywords": [
     "vlcplayer",
     "video",
-    "player"
+    "player",
+    "react-native"
   ],
   "license": "MIT",
   "main": "src",
