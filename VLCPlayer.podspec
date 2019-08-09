@@ -18,6 +18,7 @@ Pod::Spec.new do |s|
 
 
   s.dependency 'React'
+  s.dependency 'MobileVLCKit', '3.1.4'
 
 end
 
